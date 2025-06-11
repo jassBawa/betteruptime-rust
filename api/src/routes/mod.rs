@@ -1,2 +1,2 @@
-pub mod user;
-pub mod website;
+pub mod users;
+pub mod websites;
